@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MSSmock</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="typeFields">
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Type 3</item>
+    </string-array>
+    <string-array name="sizeFields">
+        <item>Size 1</item>
+        <item>Size 2</item>
+        <item>Size 3</item>
+    </string-array>
+
+</resources>
