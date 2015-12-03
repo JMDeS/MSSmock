@@ -26,9 +26,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerHorizontal="true"
-                android:background="#8c8888"
-                android:divider="#ffffff"
-                android:showDividers="beginning|middle|end">
+                android:divider="#000000"
+                android:showDividers="beginning|middle|end"
+                android:dividerPadding="20dp">
 
                 <LinearLayout
                     android:orientation="horizontal"
@@ -142,8 +142,7 @@
                     android:orientation="horizontal"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:weightSum="1"
-                    android:background="#8d8989" >
+                    android:weightSum="1">
 
                     <ImageView
                         android:layout_width="@android:dimen/thumbnail_width"
@@ -240,8 +239,7 @@
                     android:orientation="horizontal"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:weightSum="1"
-                    android:background="#8d8989" >
+                    android:weightSum="1">
 
                     <ImageView
                         android:layout_width="@android:dimen/thumbnail_width"
@@ -338,8 +336,7 @@
                     android:orientation="horizontal"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:weightSum="1"
-                    android:background="#8d8989" >
+                    android:weightSum="1">
 
                     <ImageView
                         android:layout_width="@android:dimen/thumbnail_width"
@@ -439,8 +436,7 @@
                     android:orientation="horizontal"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:weightSum="1"
-                    android:background="#8d8989" >
+                    android:weightSum="1">
 
                     <ImageView
                         android:layout_width="@android:dimen/thumbnail_width"
